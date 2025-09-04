@@ -39,7 +39,6 @@ My mission is to **bridge the gap between innovation and real-world impact**, em
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafacalassara&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafacalassara&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=rafacalassara&theme=tokyonight)  
 
 ---
 
