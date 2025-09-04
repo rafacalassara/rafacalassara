@@ -10,7 +10,7 @@ I am a technology enthusiast with a unique background that blends **military pre
 
 - 🛠️ Over **8 years of technical experience** in the **Brazilian Air Force**, optimizing processes, ensuring precision, and driving automation in mission-critical systems.  
 - 🎓 Experienced **Professor and Instructor**, teaching Computer Science, OOP, Usability, and Intelligent Agent Systems (CrewAI, LangChain, LLMs).  
-- 💼 Currently an **AI Consultant at KPMG Brazil**, leading enterprise AI projects with **multi-agent systems**, **RAG architectures**, and **Azure AI**.  
+- 💼 Currently an **AI Consultant**, leading enterprise AI projects with **multi-agent systems**, **RAG architectures**, and **Azure AI**.  
 - 🔍 Strong focus on **applied AI**, helping companies and professionals adopt agent-based automation to improve decision-making and reduce costs.  
 - 🌍 Lifelong learner with postgraduate studies in **AI & Machine Learning** and **Intelligent Agents & Systems**.  
 
